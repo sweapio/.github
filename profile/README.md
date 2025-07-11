@@ -53,11 +53,6 @@ From your account dashboard, you can:
 - 🆘 [Support Center](https://support.sweap.io)  
 - 🌍 [Sweap Website](https://www.sweap.io)
 
-## 🤝 Contributing
-
-We welcome contributions! If you have helpful examples, ideas, or improvements, feel free to open a pull request or start a discussion.  
-Before contributing, please review our [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon).
-
 ## 📬 Feedback & Questions
 
 Have questions or feature requests?  
