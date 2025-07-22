@@ -25,7 +25,7 @@ This repository is your starting point for working with our public APIs. It incl
 Start by exploring our [Postman workspace](https://www.postman.com/sweapio) to browse available endpoints, test requests, and understand how our APIs work.
 You can also dive straight into the Sweap Core API by forking the official Postman collection below:
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/2047-8d052e7e-03af-4f44-ada8-db64cb8ff0f9?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D2047-8d052e7e-03af-4f44-ada8-db64cb8ff0f9%26entityType%3Dcollection%26workspaceId%3D0654ef53-bb51-4be3-9836-1c403a1d3c3a)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/2047-53646fe7-333c-4bb2-a8c9-dc37939f3949?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D2047-53646fe7-333c-4bb2-a8c9-dc37939f3949%26entityType%3Dcollection%26workspaceId%3D0654ef53-bb51-4be3-9836-1c403a1d3c3a)
 
 To use our **Core API**, you’ll need:
 - A Sweap account (paid plans include API access)
